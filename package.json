@@ -1,0 +1,14 @@
+{
+  "name": "milan",
+  "version": "1.0.0",
+  "description": "app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "milan lakhani",
+  "license": "ISC",
+  "dependencies": {
+    "modules": "^0.4.0"
+  }
+}
